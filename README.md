@@ -1,6 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Md Jehid Alam</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
+<img align="right" alt="coding" width"400" src="https://images.app.goo.gl/qEgp5zcrRS61XoFFA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjehidalam&label=Profile%20views&color=0e75b6&style=flat" alt="mdjehidalam" /> </p>
 
@@ -25,27 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjehidalam&" alt="mdjehidalam" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+ 
