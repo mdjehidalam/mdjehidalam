@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Md Jehid Alam</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://images.app.goo.gl/qEgp5zcrRS61XoFFA">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjehidalam&label=Profile%20views&color=0e75b6&style=flat" alt="mdjehidalam" /> </p>
 
