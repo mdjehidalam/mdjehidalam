@@ -32,15 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjehidalam&show_icons=true&locale=en" alt="mdjehidalam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjehidalam&" alt="mdjehidalam" /></p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjehidalam&show_icons=true&locale=en&layout=compact" alt="mdjehidalam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjehidalam&show_icons=true&locale=en" alt="mdjehidalam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjehidalam&" alt="mdjehidalam" /></p>
-
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mdjehidalamindia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mdjehidalamindia?trk=profile-badge">Md Jehid Alam</a></div>
-              
