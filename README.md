@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **mdjehidalam2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g_svVF7zZV61SS6lxo5LmmYSDTimpI1L/view?usp=drivesdk] 
-- [MD_JEHID_ALAM_RESUME.pdf](https://github.com/user-attachments/files/18141841/MD_JEHID_ALAM_RESUME.pdf)
+- 📄 Know about my experiences  
+  [MD_JEHID_ALAM_RESUME.pdf](https://github.com/user-attachments/files/18141841/MD_JEHID_ALAM_RESUME.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
